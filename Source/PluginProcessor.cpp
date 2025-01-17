@@ -221,3 +221,8 @@ juce::AudioProcessor* JUCE_CALLTYPE createPluginFilter()
 {
     return new SimpleEQAudioProcessor();
 }
+
+
+
+
+//Simple design for now, update Friday january 17 - Ariadna Toledo
