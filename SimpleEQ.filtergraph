@@ -65,7 +65,7 @@
           uiLastX_Normal="136" uiLastY_Normal="489" uiopen_Normal="1">
     <PLUGIN name="SimpleEQ" format="VST3" category="Fx" manufacturer="yourcompany"
             version="1.0.0" file="/Users/aritoledo/Library/Audio/Plug-Ins/VST3/SimpleEQ.vst3"
-            uniqueId="59aa921" isInstrument="0" fileTime="1941116c2ac" infoUpdateTime="194afe73f78"
+            uniqueId="59aa921" isInstrument="0" fileTime="194afdd715a" infoUpdateTime="194b020a935"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="acfda794"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
@@ -82,7 +82,7 @@
           uiLastX_Normal="182" uiLastY_Normal="122" uiopen_Normal="1">
     <PLUGIN name="AUAudioFilePlayer" format="AudioUnit" category="Generator"
             manufacturer="Apple" version="1.6.0" file="AudioUnit:Generators/augn,afpl,appl"
-            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="194afe73f79"
+            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="194b020a936"
             numInputs="0" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="6163676e"/>
     <STATE>752.hAGaoMGcv.C1AHv.DTfAGfPBJr.Gc3wGgvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPgxvzM3vCPDQFXYTZrUlSg0VYWIUYmk1atMmWIM2TkwVYiQWYjYTZrU1aPDH.u.PU.LG.kAfb.LG.u.PX.HG.oA.c.7F.rAPY.PF.uAvK.PD.kAvb.rF.zAva..G.u..T.jF.xAva.PG.kAvX.3F.oAPX..B.s..H.LD.rAPc.HF.f..T.jF.xAva.PG.kAvX.3F.oAPX..B.n..b.HG.kAPK.7F.xA.Y.TF.xAPJ.7B.UA.a.PG.oAPa.DF.f.PQ.LG.0Afa.DF.f.vJ..B.DAfR..B.RAPX.XF.lA.H.zB.f.vP.vF.0AfX..B.PAPZ.HG.uA.c.TF.iAfa.jF.gA.H.zB.f..L.DC.f.vT.TF.xAPXCD..f.PS.DF.tMv..DF.tAPX.3B.sA.b.LSnRP8DTTgEWfQFZ3kTkcVZu4FQuU1bL81avokTkcVZu4FQgQWXeAADIM2TkwVYiQWYjIUYmk1atokTkcVZu4lSg0VYH7DDvA...........sJ....X...................XiaTP..........fXC2BwTnhXG.p.CLfAxrGDA....DTfk6K......................................eNzAA...........Z66......PBZ4TY2AhTkcVZu4VBRDlYvwFD.HQX0claQCBDVYTZrUFHwfUUtQWZzwVYjA.B.jA.l.vJ.jD.QAPV.3E.vAPc.nG.6APe.PH.MBPk.PZ.oFvpAPa.CGfyADd.rGP6B.l.gI.aBzl.xI.cBjm.7Ivf........BD..........h...................BvH</STATE>
